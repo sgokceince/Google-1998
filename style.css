@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: block;
+    background-color: #fff;
+}
+.container {
+    display: block;
+}
+.logo {
+    display: block;
+    width: 351px;
+    height: 113px;
+    margin: 0px auto;
+}
+#logo {
+    display: block;
+    margin-top: 20px !important;
+}
+.content {
+    width: 90%;
+    font-size: 25px;
+    margin: 0 auto;
+}
+.form-content {
+    display: block;
+    background-color: #EEEEEE;
+    height: 60px;
+    margin-bottom: 3px;
+}
+.text{
+    font-size: 16px;
+    line-height: 1.2;
+    text-align: center;
+    padding: 5px 0px;
+}
+#form {
+    display: block;
+    width: 280px;
+    margin: -15px auto 0px;
+    padding: 0px;
+    
+}
+
+#search{
+    width: 280px;
+    margin-bottom: -40px;
+}
+.button-container {
+    display: block;
+    width: 200px;
+    height: 20px;
+    margin: -10px auto 30px;
+    margin-bottom: 30px;
+    
+}
+
+.box {
+    display: flex;
+    text-align: center;
+    width: 100%;
+    list-style-type: none;
+      
+}
+.box-ul {
+    padding: 0px;
+    list-style-type: none;
+    margin-left: 3px;
+    box-sizing: border-box;
+    height: 80px;
+}
+.box-ul:first-child {
+    margin-left: 0px;
+}
+.box-1 {
+    background-color: #7EE5DA;
+    width: 43%;
+    font-size: 15px;
+    padding-top: 12px;
+}
+.box-1 li a {
+    display: block;
+    font-size: 15px;
+}
+.box-2 {
+    background-color: #70CCC2;
+    width: 22%;
+    padding-top: 10px;
+}
+.box-2 li a {
+    display: block;
+    font-size: 13px;
+}
+.box-3 {
+    background-color: #62B3AA;
+    align-items: right;
+    width: 45%;
+}
+.box-3 li p {
+    font-size: 14px;
+    line-height: 1.2;
+}
+#subscribe-form {
+    padding: 0 !important;
+    margin-top: -10px !important;
+}
+#subscribe-email {
+    margin-bottom: -10px !important;
+}
+#subscribe-button {
+    position: relative;
+    top: -10px !important;
+    left: 3px;
+}
+.archive-button {
+    display: inline-block;
+    position: relative;
+    font-size: 13px;
+    top: -10px;
+}
+.footer-bottom {
+    display: block;
+    padding-top: 10px;
+    text-align: -webkit-center;
+    
+}
